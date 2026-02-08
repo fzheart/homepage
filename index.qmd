@@ -1,0 +1,130 @@
+---
+title: ""
+page-layout: article
+toc: true
+toc-location: right
+---
+
+::::: profile-section
+::: profile-image
+![](images/profile.jpg){width="141"}
+:::
+
+::: profile-info
+# Youngjin Kwon
+
+[Email](mailto:yjkwon@kaist.ac.kr) [Google Scholar](https://scholar.google.com/citations?user=ws0TSnsAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/94/8239.html) [LinkedIn](https://www.linkedin.com/in/youngjin-kwon-1776b23a/)
+:::
+:::::
+
+## Bio
+
+I am an Associate Professor in the School of Computing at [KAIST](http://cs.kaist.ac.kr) and a member of the [Computer Architecture and Systems Lab](https://casyslab.kaist.ac.kr/) (CASYS). My research focuses on the intersection of systems and AI, with particular emphasis on building efficient and scalable infrastructure for large-scale AI workloads. My research interests span AI systems (LLM serving, GPU computing), memory systems (disaggregation, CXL, PIM), operating systems (kernel optimization, virtualization, security), storage systems (file systems, databases, SSD), and computer architecture (CPU/GPU offloading, SmartNIC).
+
+I received my PhD in Computer Science and have been recognized with best paper awards at ACM SOSP'24, SOSP'21, and USENIX ATC'18. My work has been acknowledged through the KAIST EWON Endowed Chair Professorship (2021), Google Research Scholar Award (2025), and multiple KAIST breakthrough recognitions (2023, 2025).
+
+My group has published extensively at top-tier systems conferences including SOSP, OSDI, EUROSYS, and USENIX ATC/FAST/SECURITY.
+
+## Internship
+
+### 2025 Winter Internship (겨울학기 인턴십)
+
+I am always looking for talented graduate students interested in systems research. If you are not a KAIST student, please first apply to KAIST CS ([Korean application](https://cs.kaist.ac.kr/content?menu=41) / [English application](https://cs.kaist.ac.kr/content?menu=41)).
+
+I am also looking for undergraduate students (currently KAIST students only) for fun and impactful research projects.
+
+**Research areas in our lab:**
+
+-   Systems for AI (LLM serving, GPU systems, memory disaggregation)
+-   Operating Systems (kernel optimization, virtualization, security)
+-   Storage Systems (file systems, databases, SSD optimization)
+-   Computer Architecture (CPU/GPU offloading, PIM, SmartNIC)
+
+**To apply:** Please email me at yjkwon at kaist.ac.kr with your CV, transcript, research interests, and available start date. More details on our [Internship page](internship.qmd).
+
+## Awards & Honors
+
+**Best Paper Awards**
+
+-   **ACM SOSP 2024** – OZZ: Identifying Kernel Out-of-Order Concurrency Bugs
+-   **ACM SOSP 2021** – \[Paper title\]
+-   **USENIX ATC 2018** – \[Paper title\]
+
+**Institutional Recognition**
+
+-   **Google Research Scholar Award** (2025)
+-   **KAIST Breakthrough** (2023, 2025) [\[link\]](https://breakthroughs.kaist.ac.kr/sub02/view/id/95)
+-   **Selection of KAIST Research Achievements** (2024)
+-   **Technology Innovation Award** (2023)
+-   **EWON Endowed Chair Professor** (2021)
+-   **Soo-Young Lee Teaching Innovation Award** (2021)
+
+## Selected Recent Publications
+
+**BEAM: Joint Resource–Power Optimization for Energy-Efficient LLM Inference under SLO contraints.** *MLSYS* 2026.
+
+**PIM-malloc: A Fast and Scalable Dynamic Memory Allocator for Processing-In-Memory (PIM) Architectures.** *HPCA* 2026.
+
+**CofferOS: Hardening OS-level Virtualization with Rust.** *EUROSYS* 2026.
+
+**MTTM: Dynamic Fast Memory Partitioning with Bandwidth Optimization for Multi-tenant Cloud.** *EUROSYS* 2026.
+
+**BASK: Batch And SmartNIC-offloaded KSM.** *EUROSYS* 2026.
+
+**SAND: A New Programming Abstraction for Video-based Deep Learning.** *SOSP* 2025.
+
+**Scalable Address Spaces using Concurrent Interval Skiplist.** *SOSP* 2025.
+
+**Defeating Use-After-Free Bugs Using Memory Sweeper Without Stop-the-World.** *IEEE S&P* 2025.
+
+**Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding.** *NAACL* 2025.
+
+**Adios to Busy-Waiting for Microsecond-scale Memory Disaggregation.** *EuroSys* 2025.
+
+**OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering.** *SOSP* 2024. **Best paper award.**
+
+**BUDAlloc: Defeating Use-After-Free Bugs by Decoupling Virtual Address Management from Kernel.** *USENIX SECURITY* 2024.
+
+**Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples.** *USENIX OSDI* 2024.
+
+::: complete-list-link
+See the complete list on my [Publications](publication.qmd) page or [Google Scholar](https://scholar.google.com/citations?user=ws0TSnsAAAAJ&hl=en).
+:::
+
+## Teaching
+
+I teach courses on operating systems and virtualization at both undergraduate and graduate levels:
+
+[**CS492: Special Topics in Virtualization**](https://sites.google.com/casys.kaist.ac.kr/virtualization) – 2018 Fall, 2023 Spring
+
+[**CS330: Operating Systems and Labs**](https://sites.google.com/view/cs330) – 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring, 2023 Fall, 2025 Fall
+
+[**CS530: Graduate Operating Systems**](https://sites.google.com/view/cs530-gos/) – 2019 Fall, 2020 Fall, 2021 Fall, 2022 Fall, 2024 Spring
+
+## Professional Service
+
+**Conference Leadership**
+
+-   **General Co-Chair**, ACM SOSP 2025
+-   **Program Co-Chair**, APSYS 2026
+-   **Student Volunteer Chair**, Mobisys 2019
+
+**Program Committees**
+
+-   **2026**: SOSP, EUROSYS
+-   **2025**: SOSP, EUROSYS, ASPLOS, MICRO, HotOS, HotStorage, APSYS
+-   **2024**: OSDI, ATC, FAST, ASPLOS, EUROSYS, SYSTOR, HotStorage
+-   **2023**: ATC, EUROSYS, SYSTOR, APSYS
+-   **2022**: FAST, USENIX ATC, HotStorage, APSYS
+-   **2021**: ATC, SYSTOR, ANCS, APSYS, EuroDW
+-   **2020**: ATC, MSST, APSYS
+-   **2019**: ASPLOS (external), VEE, MSST, APSYS
+-   **2018**: SOCC
+
+**Editorial Boards**
+
+-   ACM Transactions on Storage
+-   ACM Transactions on Computer Systems
+-   ACM Transactions on Computers
+
+##

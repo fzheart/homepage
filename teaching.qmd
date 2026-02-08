@@ -1,0 +1,46 @@
+---
+title: "Teaching"
+---
+
+I teach courses on operating systems and virtualization at both undergraduate and graduate levels at KAIST. My teaching focuses on providing students with deep understanding of system internals and hands-on experience with real-world systems.
+
+## Current Courses
+
+### CS330: Operating Systems and Labs
+
+An undergraduate course covering fundamental concepts of operating systems including processes, threads, synchronization, memory management, file systems, and I/O systems. The course includes extensive lab components where students implement key OS mechanisms.
+
+* **Recent offerings**: 2019 Spring, 2020 Spring, 2021 Spring, 2022 Spring, 2023 Fall, 2025 Fall
+* **Course website**: [https://sites.google.com/view/cs330](https://sites.google.com/view/cs330)
+
+### CS530: Graduate Operating Systems
+
+A graduate-level course that explores advanced topics in operating systems including virtualization, distributed systems, and modern OS architectures. Students engage with cutting-edge research papers and work on substantial projects.
+
+* **Recent offerings**: 2019 Fall, 2020 Fall, 2021 Fall, 2022 Fall, 2024 Spring
+* **Course website**: [https://sites.google.com/view/cs530-gos/](https://sites.google.com/view/cs530-gos/)
+
+### CS492: Special Topics in Virtualization
+
+A special topics course focusing on virtualization technologies including hypervisors, containers, and cloud computing infrastructure. Students learn both theoretical foundations and practical implementation aspects.
+
+* **Recent offerings**: 2018 Fall, 2023 Spring
+* **Course website**: [https://sites.google.com/casys.kaist.ac.kr/virtualization](https://sites.google.com/casys.kaist.ac.kr/virtualization)
+
+## Teaching Philosophy
+
+I believe in teaching through a combination of rigorous theoretical understanding and hands-on practical experience. My courses emphasize:
+
+* **Deep conceptual understanding** of system internals
+* **Hands-on implementation** of key mechanisms
+* **Reading and discussing** influential research papers
+* **Real-world relevance** through industry case studies
+* **Critical thinking** about design tradeoffs
+
+## Awards
+
+* **Soo-Young Lee Teaching Innovation Award** (2021) - Awarded by KAIST for excellence in teaching innovation
+
+## Guest Lectures
+
+I occasionally give guest lectures on systems research and my group's work. If you are interested in having me speak at your institution, please [contact me](mailto:yjkwon@kaist.ac.kr).

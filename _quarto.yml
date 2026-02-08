@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Youngjin Kwon"
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Papers"
+        href: publication.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Members"
+        href: members.qmd
+      - text: "Internship"
+        href: internship.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    page-layout: article

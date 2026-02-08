@@ -1,0 +1,69 @@
+---
+title: "Publications"
+toc: true
+toc-location: right
+---
+
+## 2026
+
+**BEAM: Joint Resource–Power Optimization for Energy-Efficient LLM Inference under SLO contraints.** Authors TBD. *Machine Learning and Systems (MLSYS)* 2026.
+
+**PIM-malloc: A Fast and Scalable Dynamic Memory Allocator for Processing-In-Memory (PIM) Architectures.** Authors TBD. *International Symposium on High-Performance Computer Architecture (HPCA)* 2026.
+
+**CofferOS: Hardening OS-level Virtualization with Rust.** Authors TBD. *European Conference on Computer Systems (EUROSYS)* 2026.
+
+**MTTM: Dynamic Fast Memory Partitioning with Bandwidth Optimization for Multi-tenant Cloud.** Authors TBD. *European Conference on Computer Systems (EUROSYS)* 2026.
+
+**BASK: Batch And SmartNIC-offloaded KSM.** Authors TBD. *European Conference on Computer Systems (EUROSYS)* 2026.
+
+## 2025
+
+**SAND: A New Programming Abstraction for Video-based Deep Learning.** Authors TBD. *ACM Symposium on Operating Systems Principles (SOSP)* 2025.
+
+**Scalable Address Spaces using Concurrent Interval Skiplist.** Authors TBD. *ACM Symposium on Operating Systems Principles (SOSP)* 2025.
+
+**Defeating Use-After-Free Bugs Using Memory Sweeper Without Stop-the-World.** Authors TBD. *IEEE Symposium on Security and Privacy (S&P)* 2025.
+
+**Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding.** Authors TBD. *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)* 2025.
+
+**Adios to Busy-Waiting for Microsecond-scale Memory Disaggregation.** Authors TBD. *European Conference on Computer Systems (EuroSys)* 2025.
+
+## 2024
+
+**OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering.** Authors TBD. *ACM Symposium on Operating Systems Principles (SOSP)* 2024. **Best paper award.**
+
+**BUDAlloc: Defeating Use-After-Free Bugs by Decoupling Virtual Address Management from Kernel.** Authors TBD. *USENIX Security Symposium (SECURITY)* 2024.
+
+**Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples.** Authors TBD. *USENIX Symposium on Operating Systems Design and Implementation (OSDI)* 2024.
+
+## 2023
+
+(Add your 2023 publications here)
+
+## 2022
+
+(Add your 2022 publications here)
+
+## 2021
+
+**[Paper title - SOSP'21 Best Paper Award].** Authors TBD. *ACM Symposium on Operating Systems Principles (SOSP)* 2021. **Best paper award.**
+
+(Add your other 2021 publications here)
+
+## 2020
+
+(Add your 2020 publications here)
+
+## 2019
+
+(Add your 2019 publications here)
+
+## 2018
+
+**[Paper title - ATC'18 Best Paper Award].** Authors TBD. *USENIX Annual Technical Conference (ATC)* 2018. **Best paper award.**
+
+(Add your other 2018 publications here)
+
+---
+
+For the most up-to-date list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=ws0TSnsAAAAJ&hl=en) or [DBLP page](https://dblp.uni-trier.de/pid/94/8239.html).

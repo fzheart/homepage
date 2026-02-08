@@ -1,0 +1,50 @@
+---
+title: "Lab Members"
+---
+
+## Faculty
+
+**Youngjin Kwon**  
+Associate Professor  
+School of Computing, KAIST  
+Email: yjkwon at kaist.ac.kr
+
+[Google Scholar](https://scholar.google.com/citations?user=ws0TSnsAAAAJ&hl=en) | [DBLP](https://dblp.uni-trier.de/pid/94/8239.html) | [LinkedIn](https://www.linkedin.com/in/youngjin-kwon-1776b23a/)
+
+---
+
+## Current Students
+
+### PhD Students
+
+(Add current PhD students with their research focus and year)
+
+### MS Students
+
+(Add current MS students with their research focus and year)
+
+### Undergraduate Researchers
+
+(Add current undergraduate research assistants)
+
+---
+
+## Alumni
+
+### PhD Graduates
+
+(Add PhD alumni with their thesis title and current position)
+
+### MS Graduates
+
+(Add MS alumni with their thesis title and current position)
+
+### Undergraduate Researchers
+
+(Add undergraduate alumni who worked in the lab)
+
+---
+
+## Join Us
+
+We are always looking for talented and motivated students interested in systems research. See our [Internship page](internship.qmd) for opportunities.

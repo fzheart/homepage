@@ -1,0 +1,102 @@
+---
+title: "Internship"
+---
+
+## 2025 Winter Internship (겨울학기 인턴십)
+
+I am actively looking for talented students to join our research group. We work on exciting problems at the intersection of systems and AI, with focus on building efficient infrastructure for large-scale AI workloads.
+
+### Research Areas
+
+Our lab focuses on the following research areas:
+
+* **Systems for AI**: LLM serving and inference optimization, GPU systems, memory disaggregation, KV cache management
+* **Memory Systems**: CXL-based memory pooling, memory deduplication, PIM architectures
+* **Operating Systems**: Kernel-level optimization, virtualization, OS security, concurrency bug detection
+* **Storage Systems**: File systems for AI workloads, database systems, SSD optimization
+* **Computer Architecture**: CPU/GPU offloading, SmartNIC acceleration, hardware-software co-design
+
+### For Graduate Students
+
+**International applicants**: If you are not currently a KAIST student, please first apply to the KAIST CS graduate program:
+
+* [Korean application guide (한국어 안내)](https://cs.kaist.ac.kr/content?menu=41)
+* [English application guide](https://cs.kaist.ac.kr/content?menu=41)
+
+Once admitted to KAIST, please contact me to discuss research opportunities.
+
+**KAIST students**: If you are already a KAIST graduate student, please email me directly with your CV and research interests.
+
+### For Undergraduate Students
+
+**Current opportunity**: KAIST undergraduate students only
+
+I am looking for motivated undergraduate students who want to gain research experience through hands-on projects. These projects often lead to publications at top-tier conferences and can serve as excellent preparation for graduate school.
+
+**What we look for:**
+
+* Strong programming skills (C/C++, Python)
+* Solid understanding of computer systems fundamentals
+* Enthusiasm for learning and tackling challenging problems
+* Ability to work independently and in a team
+
+### How to Apply
+
+Please email me at **yjkwon at kaist.ac.kr** with:
+
+1. **CV/Resume** - Include your academic background, relevant coursework, and any research or project experience
+2. **Transcript** - Unofficial is fine for initial contact
+3. **Research interests** - What specific areas interest you? What problems do you want to work on?
+4. **Availability** - When can you start? How many hours per week can you commit?
+
+For undergraduate students, also include a brief statement about your career goals and why you're interested in research.
+
+### What to Expect
+
+**For graduate students:**
+
+* Work on cutting-edge research problems
+* Publish at top-tier systems conferences (SOSP, OSDI, EUROSYS, etc.)
+* Collaborate with leading researchers in the field
+* Access to high-performance computing resources
+* Opportunity to work on impactful real-world systems
+
+**For undergraduate students:**
+
+* Hands-on experience with real research projects
+* Mentorship from PhD students and faculty
+* Opportunity to co-author research papers
+* Preparation for graduate school applications
+* Flexible hours that work with your course schedule
+
+### Lab Culture
+
+We believe in:
+
+* **Rigorous research** with real-world impact
+* **Collaborative environment** where everyone learns from each other
+* **Work-life balance** - research is a marathon, not a sprint
+* **Open communication** - regular lab meetings, paper readings, and discussions
+* **Diversity and inclusion** - we welcome students from all backgrounds
+
+### FAQ
+
+**Q: What programming languages do I need to know?**  
+A: Strong C/C++ skills are essential for systems research. Python is useful for scripting and data analysis. Experience with Rust is a plus but not required.
+
+**Q: Do I need prior research experience?**  
+A: Not required, but helpful. We value enthusiasm and willingness to learn over prior experience.
+
+**Q: Can international students join as interns before admission?**  
+A: Unfortunately, due to visa regulations, you must first be admitted to KAIST as a graduate student.
+
+**Q: What is the time commitment?**  
+A: For undergraduates, typically 10-15 hours per week during semester, more during breaks. For graduate students, research is your primary focus.
+
+---
+
+## Contact
+
+For any questions, please email: **yjkwon at kaist.ac.kr**
+
+Looking forward to hearing from you!

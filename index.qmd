@@ -1,21 +1,61 @@
 ---
-title: ""
-page-layout: article
+title: Home
+page-layout: full
 toc: true
 toc-location: right
+title-block-style: none
+body-classes: home
 ---
 
-::::: profile-section
-::: profile-image
-![](images/profile.jpg){width="141"}
+::: {.profile-section}
+
+![](images/profile.jpg){.profile-img}
+
+::: {.profile-content}
+
+# Youngjin Kwon {.profile-name}
+
+Associate Professor, School of Computing, KAIST  
+Systems for AI, storage, and high-performance infrastructure
+
+::: {.profile-links}
+- [Google Scholar](https://scholar.google.com/)
+- [DBLP](https://dblp.org/)
+- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/)
 :::
 
-::: profile-info
-# Youngjin Kwon
-
-[Email](mailto:yjkwon@kaist.ac.kr) [Google Scholar](https://scholar.google.com/citations?user=ws0TSnsAAAAJ&hl=en) [DBLP](https://dblp.uni-trier.de/pid/94/8239.html) [LinkedIn](https://www.linkedin.com/in/youngjin-kwon-1776b23a/)
+::: {.profile-badges}
+<span class=badge>AI Systems</span>
+<span class=badge>Memory and Storage</span>
+<span class=badge>GPU Serving</span>
+<span class=badge>Operating Systems</span>
 :::
-:::::
+
+:::
+:::
+
+::: {.profile-snapshot}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.mini-card}
+### Research focus
+- Efficient LLM and MLLM training and serving
+- GPU memory, KV cache, offloading, tiered storage
+- System primitives for reliability and performance
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.mini-card}
+### Contact
+- Email: yjkwon at kaist dot ac dot kr
+- KAIST, Daejeon, Republic of Korea
+:::
+:::
+
+:::
 
 ## Bio
 
